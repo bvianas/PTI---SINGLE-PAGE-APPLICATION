@@ -16,12 +16,6 @@ O foco é mostrar que o componente:
 - HTML5 / CSS3 (inline styling)
 - Node.js + npm
 
-## 🖼️ Demonstração do Projeto
-
-![Print do cardápio](./public/card.png)
-
-
-
 
 ---
 
