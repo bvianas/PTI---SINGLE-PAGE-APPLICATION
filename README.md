@@ -17,7 +17,9 @@ O foco é mostrar que o componente:
 - Node.js + npm
 
 ## 🖼️ Demonstração do Projeto
-![Print do cardápio](public/card.png)
+
+![Print do cardápio](./public/card.png)
+
 
 
 
