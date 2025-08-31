@@ -4,7 +4,7 @@
 Projeto desenvolvido como parte do **Projeto Integrador (PTI)**, demonstrando o uso de **componentes funcionais** em uma **SPA (Single Page Application)** com ReactJS.  
 
 O foco é mostrar que o componente:
-- É **funcional** (não classe).
+- É **funcional**
 - Recebe **dados no formato JSON via props**.
 - Renderiza dinamicamente os itens (cards de produtos).
 
